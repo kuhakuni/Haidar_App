@@ -1,0 +1,22 @@
+D:\course\UserManagement\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\course\UserManagement\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\course\UserManagement\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\usermanagement\\userinterfaces\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\userinterfaces\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\usermanagement\\userinterfaces\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\userinterfaces\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\services\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|solutionrelative:services\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\services\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|solutionrelative:services\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\services\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|solutionrelative:services\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\dataaccess\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\dataaccess\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|solutionrelative:services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\services\\dtos\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|solutionrelative:services\\dtos\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\dataaccess\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\usermanagement\\userinterfaces\\memberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\userinterfaces\\memberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\usermanagement\\userinterfaces\\usermanagementpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\userinterfaces\\usermanagementpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A865DC2-1A9E-468E-B05B-B24E01CCEBBF}|Utilities\\Utilities.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\utilities\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A865DC2-1A9E-468E-B05B-B24E01CCEBBF}|Utilities\\Utilities.csproj|solutionrelative:utilities\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A865DC2-1A9E-468E-B05B-B24E01CCEBBF}|Utilities\\Utilities.csproj|d:\\program files\\microsoft visual studio\\2022\\repos\\usermanagement\\utilities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A865DC2-1A9E-468E-B05B-B24E01CCEBBF}|Utilities\\Utilities.csproj|solutionrelative:utilities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\MemberService.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Services\\MemberService.cs",
+              "RelativeToolTip": "Services\\Services\\MemberService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:01:04.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Admin.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Models\\Admin.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:14:28.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPage.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\UserInterfaces\\AdminPage.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserInterfaces\\AdminPage.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\UserInterfaces\\AdminPage.cs",
+              "RelativeToolTip": "UserManagement\\UserInterfaces\\AdminPage.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwGgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:50:57.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "DataAccess\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:14:04.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Dtos\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Services\\Dtos\\LoginRequest.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Dtos\\LoginRequest.cs",
+              "RelativeToolTip": "Services\\Dtos\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:27:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Dtos\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Dtos\\LoginResponse.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Dtos\\LoginResponse.cs",
+              "RelativeToolTip": "Services\\Dtos\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:28:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\UserInterfaces\\LoginPage.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserInterfaces\\LoginPage.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\UserInterfaces\\LoginPage.cs",
+              "RelativeToolTip": "UserManagement\\UserInterfaces\\LoginPage.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:44:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:11:39.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:21:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\LoginService.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Services\\LoginService.cs",
+              "RelativeToolTip": "Services\\Services\\LoginService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAjwDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:24:48.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginInfo.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Dtos\\LoginInfo.cs",
+              "RelativeDocumentMoniker": "Services\\Dtos\\LoginInfo.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Services\\Dtos\\LoginInfo.cs",
+              "RelativeToolTip": "Services\\Dtos\\LoginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:32:40.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Member.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\DataAccess\\Models\\Member.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Member.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:14:40.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberPage.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\UserInterfaces\\MemberPage.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserInterfaces\\MemberPage.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\UserInterfaces\\MemberPage.cs",
+              "RelativeToolTip": "UserManagement\\UserInterfaces\\MemberPage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:15:30.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserManagementPage.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\UserInterfaces\\UserManagementPage.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserInterfaces\\UserManagementPage.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\UserInterfaces\\UserManagementPage.cs",
+              "RelativeToolTip": "UserManagement\\UserInterfaces\\UserManagementPage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:46:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Utilities\\Helpers.cs",
+              "RelativeDocumentMoniker": "Utilities\\Helpers.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Utilities\\Helpers.cs",
+              "RelativeToolTip": "Utilities\\Helpers.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:52:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Program.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\UserManagement\\Program.cs",
+              "RelativeToolTip": "UserManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:10:54.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Utilities\\UserType.cs",
+              "RelativeDocumentMoniker": "Utilities\\UserType.cs",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\repos\\UserManagement\\Utilities\\UserType.cs",
+              "RelativeToolTip": "Utilities\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:33:30.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

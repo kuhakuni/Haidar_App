@@ -1,0 +1,22 @@
+D:\course\UserManagement\UserManagement\Utilities\bin\Debug\net8.0\Utilities.deps.json
+D:\course\UserManagement\UserManagement\Utilities\bin\Debug\net8.0\Utilities.dll
+D:\course\UserManagement\UserManagement\Utilities\bin\Debug\net8.0\Utilities.pdb
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.dll
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.pdb
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\bin\Debug\net8.0\Utilities.deps.json
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\bin\Debug\net8.0\Utilities.dll
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\bin\Debug\net8.0\Utilities.pdb
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\obj\Debug\net8.0\Utilities.dll
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\obj\Debug\net8.0\Utilities.pdb
+D:\Program Files\Microsoft Visual Studio\2022\repos\UserManagement\Utilities\obj\Debug\net8.0\ref\Utilities.dll
